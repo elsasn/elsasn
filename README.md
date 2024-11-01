@@ -20,7 +20,7 @@ const thai = {
                         Python: "PythonID",
                         Quality Assurance: "ISQA"
                       },
- contact: "dragfirepp@gmail.com"
+ contact: "elsa.snb@gmail.com"
 }
 ```
 
